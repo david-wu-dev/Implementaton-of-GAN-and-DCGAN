@@ -8,3 +8,7 @@ The training process has a few key features that help minimize mode collapse. Th
 
 ### Results
 After training for 75 epochs, the three architectures could produce relatively high quality images. The images produced by the vanilla GAN often had small individual white pixels in areas that did not contain part of the number, which is to be expected from GANs without convolutions. This sort of behavior did not occur for the DCGAN's which is an improvement. The quality of the images for the deeper DCGAN was better than that of the shallower DCGAN. For the DCGANs especially, if we were less concerned about minimal mode collapse, we could have trained the models further. This would have resulted in higher quality images but this was not the central goal of this project.
+
+### References
+Vanilla GAN architecture:
+lyeoni/pytorch-mnist-GAN (github): https://github.com/lyeoni/pytorch-mnist-GAN
