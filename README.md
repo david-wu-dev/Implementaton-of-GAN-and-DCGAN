@@ -12,14 +12,9 @@ The training process has a few key features that help minimize mode collapse.
 
 ### Results
 <div align="center">
-	<div>
-		<p>
-			 &emsp;&emsp;&emsp;2 hidden-layer DCGAN &emsp;&emsp;&emsp; 3 hidden-layer DCGAN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; vanilla GAN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-		</p>
-	</div>
-	<img src="Results/Generated%20Samples/2-hidden%20layer%20DCGAN.PNG" width="200" height="Automated" hspace="20"/>
-	<img src="Results/Generated%20Samples/3-hidden%20layer%20DCGAN.PNG" width="200" height="Automated" hspace="20"/>
-	<img src="Results/Generated%20Samples/Vanilla%20GAN.PNG" width="200" height="Automated" hspace="20"/>
+	<img src="Results/Generated%20Samples/2-hidden%20layer%20DCGAN.PNG" width="250" height="Automated" hspace="15"/>
+	<img src="Results/Generated%20Samples/3-hidden%20layer%20DCGAN.PNG" width="250" height="Automated" hspace="15"/>
+	<img src="Results/Generated%20Samples/Vanilla%20GAN.PNG" width="250" height="Automated" hspace="15"/>
 </div>
 <br>
 
